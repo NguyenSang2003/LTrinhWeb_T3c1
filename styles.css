@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box ;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  margin: 0px;
+}
+
+table,
+th {
+  background-color: khaki;
+}
+
+table,
+td {
+  background-color: khaki;
+}
+
+#main {
+  border: 1px solid black;
+}
+
+
+/* Style the header */
+header {
+  background-color: #6b6b6b91;
+  margin: 0px;
+  padding-top: 0px;
+  padding-bottom: 20px;
+  color: black;
+}
+
+
+/* Style the footer */
+footer {
+  background-color: #52525291;
+  padding: 10px;
+  text-align: center;
+  color: black;
+}
