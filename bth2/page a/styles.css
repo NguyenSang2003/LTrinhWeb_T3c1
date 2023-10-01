@@ -1,0 +1,83 @@
+/* 
+có 4 phần chính
+*/
+body {
+    font-size: 12px;
+    color: black;
+    font-family: Tahoma, Arial, sans-serif;
+    padding: 0px;
+    margin: opx;
+}
+
+a {}
+
+p {}
+
+/* ID */
+/* #section_normal_1 {
+    border: 3px solid red;
+}
+
+#section_normal_4_2 {
+    border: 3px solid red;
+}
+
+#section_normal_6 {
+    border: 3px solid red;
+}
+
+#section_agency_5 {
+    border: 3px solid red;
+} */
+
+
+
+
+#section_normal_1 {
+    height: 80px;
+    border-bottom: 4px solid rgb(217 217 217);
+    margin: auto;
+}
+
+#section_normal_1 .alpha {
+    width: auto;
+    float: left;
+    padding-top: 18px;
+    margin-left: 19px;
+
+}
+
+#section_normal_1 .omega .htext_style {
+    color: red;
+    float: left;
+    padding-top: 32px;
+    padding-right: 18px;
+
+}
+
+#section_normal_1 .omega {
+    width: auto;
+    float: right;
+    padding-top: 19px;
+
+}
+
+#section_normal_4_2 .container .omega {
+    float: right;
+
+}
+
+
+#section_normal_4_2 .container .alpha .pix_container {
+    float: left;
+
+}
+
+/* Class */
+
+.container {
+    width: 1180px;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: gray; */
+}
